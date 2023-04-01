@@ -214,6 +214,7 @@ footer {
     .about {
         flex-direction: column-reverse;
         padding: 50px 10px;
+        position: relative;
     }
     .about h1 {
         font-size: 36px;
@@ -447,9 +448,6 @@ footer {
         font-size: 15px;
         margin-left: 5px;
       }
-      .about {
-        position: relative;
-     }
      
      .orb-canvas {
         position: absolute;
